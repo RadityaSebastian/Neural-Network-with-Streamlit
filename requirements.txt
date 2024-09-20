@@ -1,4 +1,5 @@
 numpy
 types
 streamlit
+tensorflow
 tensorflow.keras.models
